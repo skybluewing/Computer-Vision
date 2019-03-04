@@ -1,5 +1,5 @@
-# Cornell-CS5670-2019
+# Image Processing
 
-Published assignment 1
+Hybrid Images
 
-Published assignment 2
+Feature Detection
